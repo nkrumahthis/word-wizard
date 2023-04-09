@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Word Wizard
+
+The AI-Powered Content Editor is a web-based application that assists content creators in generating high-quality written content using the power of the ChatGPT API. The application will be built using Next.js, a popular React-based framework for server-side rendering (SSR) and static site generation (SSG).
 
 ## Getting Started
 
